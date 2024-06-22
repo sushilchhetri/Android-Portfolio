@@ -16,3 +16,38 @@ I'm an **Sushil Chhetri** passionate about crafting high-quality mobile applicat
 ## 📫 Let's Connect
 - <a href="mailto:sushilchhetri060@gmail.com"><img src="https://img.shields.io/badge/Email-Sushil-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/sushil-chhetri-79b58b163" target="_blank"><img src="https://img.shields.io/badge/linkedin-Sushil-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;
 
+
+# Galaxy Hotspot Chat
+
+Galaxy Hotspot Chat is an Android application that allows users to engage in group communication using Wi-Fi and hotspot connections, making it possible to chat without relying on internet access. Whether you're initiating a group chat as a host or joining an existing session, this app provides a seamless and reliable communication platform.
+
+<a href='https://play.google.com/store/apps/details?id=com.ConnectChat&hl=en_IN&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+## Features:
+- **Wi-Fi and Hotspot Connectivity**: Utilizes Android socket programming to facilitate communication over local networks.
+- **Offline Communication**: Enables group chats even when internet access is unavailable.
+- **Host or Join Groups**: Users can effortlessly start or participate in group chats.
+- **Real-time Messaging**: Ensures messages are delivered promptly within the group.
+
+## Technologies Used:
+- **MVVM Architecture**: Follows the Model-View-ViewModel pattern for clear separation of concerns and maintainable code.
+- **Room Database**: Uses Room Persistence Library for efficient local data storage.
+- **Kotlin**: Developed entirely in Kotlin for its modern features and concise syntax.
+- **Hilt Dagger**: Implements dependency injection with Hilt for improved app architecture and testing.
+- **Navigation Component**: Manages in-app navigation and user interaction effectively.
+
+<div class="slideshow-container">
+    <div class="mySlides fade">
+        <img src="image1.jpg" style="width:100%">
+    </div>
+
+    <div class="mySlides fade">
+        <img src="image2.jpg" style="width:100%">
+    </div>
+
+    <div class="mySlides fade">
+        <img src="image3.jpg" style="width:100%">
+    </div>
+</div>
+
