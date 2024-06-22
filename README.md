@@ -42,8 +42,7 @@ Galaxy Hotspot Chat is an Android application that allows users to engage in gro
   <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboarding1.png?raw=true" alt="Screenshot 3" width="400" height="auto">
    <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboarding_join_room.png?raw=true" alt="Screenshot 6" width="400" height="auto"> 
   <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboarding2.png?raw=true" alt="Screenshot 4" width="400" height="auto">
-    <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboarding3.png?raw=true" alt="Screenshot 5" width="400" height="auto">
-    <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboardingGroupList.png?raw=true" alt="Screenshot 3" width="400" height="auto">
-   
+     <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboardingGroupList.png?raw=true" alt="Screenshot 3" width="400" height="auto"> 
+  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboarding3.png?raw=true" alt="Screenshot 5" width="400" height="auto">
 </div>
 
