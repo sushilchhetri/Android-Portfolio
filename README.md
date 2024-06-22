@@ -51,6 +51,8 @@ Galaxy Hotspot Chat is an Android application that allows users to engage in gro
 
 **OnePik** is an Android application designed for "One Piece" enthusiasts, offering a seamless experience to download wallpapers and WhatsApp stickers inspired by the beloved anime series.
 
+<a href='https://play.google.com/store/apps/details?id=com.onepik&hl=en_IN&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
 ## Features:
 - **Wallpaper Downloads**: Explore a vast collection of high-resolution wallpapers featuring characters, scenes, and art from "One Piece."
 - **WhatsApp Stickers**: Download and import custom WhatsApp stickers directly into your WhatsApp application for enhanced messaging experiences.
@@ -65,5 +67,47 @@ Galaxy Hotspot Chat is an Android application that allows users to engage in gro
 ## Screenshots:
 ![Screenshot 1](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/OnePik/onepik.png?raw=true)
 ![Screenshot 2](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/OnePik/Untitled-2.jpg?raw=true)
+
+
+# Sound Express
+
+**Sound Express** is a Sound Library app where you can download and play a variety of sounds without any cost. Enjoy prank sounds, funny noises, animal sounds, and much more directly from your device.
+
+<a href='https://play.google.com/store/apps/details?id=com.soundexpress&hl=en_IN&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+## Features:
+- **Sound Library**: Access a diverse collection of sounds categorized into Prank Sounds, Funny Sounds, Animal Sounds, and more.
+- **Download and Play**: Download sounds to your device and play them offline at any time.
+- **User-Friendly Interface**: Intuitive design for easy browsing, downloading, and playing of sounds.
+
+## Technologies Used:
+- **Firebase Database**: Uses Firebase Database to store and manage sound metadata and download links.
+- **Room Database**: Implements Room Persistence Library for efficient local storage of downloaded sounds on the device.
+- **ViewModel**: Employs Android ViewModel to manage UI-related data in a lifecycle-aware manner, preserving data across configuration changes.
+- **Kotlin**: Entirely developed in Kotlin, leveraging its concise syntax, null safety, and modern language features.
+
+
+
+# Fake Personality
+
+**Fake Personality** is a fun app designed for creating fictitious identities on the go. Whether you need a fictional persona for entertainment or to protect your privacy, this app provides a playful solution.
+
+<a href='https://play.google.com/store/apps/details?id=com.sushilchhetri.fakepersonality&hl=en_IN&gl=US'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+## Features:
+- **Create Fake Identities**: Generate fake names, addresses, occupations, and more with just a few taps.
+- **Customizable Profiles**: Tailor your fake identity by choosing specific details you want to include.
+- **Convenient and Fun**: Easy-to-use interface for quick creation of fictional profiles.
+
+## Technologies Used:
+- **Retrofit**: Utilizes Retrofit for handling network requests to fetch data needed for generating fake identities.
+- **Kotlin**: Developed entirely in Kotlin, leveraging its modern features and concise syntax.
+- **MVP (Model-View-Presenter)**: Follows the MVP architectural pattern for separating concerns and improving maintainability.
+
+
+## Screenshots:
+![Screenshot 1](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/OnePik/onepik.png?raw=true)
+![Screenshot 2](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/OnePik/Untitled-2.jpg?raw=true)
+
 
 
