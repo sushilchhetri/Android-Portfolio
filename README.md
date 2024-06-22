@@ -12,3 +12,7 @@ I'm an **Sushil Chhetri** passionate about crafting high-quality mobile applicat
 - Exploring Jetpack Compose and modern Android development tools.
 - Enhancing app performance and optimizing user experiences.
 - Collaborating on open-source projects to contribute to the developer community.
+
+## 📫 Let's Connect
+- <a href="mailto:sushilchhetri060@gmail.com"><img src="https://img.shields.io/badge/Email-Sushil-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ankit-kumar-02a32a14b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Ankit-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/ak_sparrow007/" target="_blank"><img src="https://img.shields.io/badge/instagram-AK_Sparrow007-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
