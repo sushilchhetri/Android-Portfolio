@@ -37,17 +37,9 @@ Galaxy Hotspot Chat is an Android application that allows users to engage in gro
 - **Hilt Dagger**: Implements dependency injection with Hilt for improved app architecture and testing.
 - **Navigation Component**: Manages in-app navigation and user interaction effectively.
 
-<div class="slideshow-container">
-    <div class="mySlides fade">
-        <img src="image1.jpg" style="width:100%">
-    </div>
-
-    <div class="mySlides fade">
-        <img src="image2.jpg" style="width:100%">
-    </div>
-
-    <div class="mySlides fade">
-        <img src="image3.jpg" style="width:100%">
-    </div>
+<div align="center">
+  <img src="https://example.com/image1.jpg" alt="Screenshot 1" width="400" height="auto">
+  <img src="https://example.com/image2.jpg" alt="Screenshot 2" width="400" height="auto">
+  <img src="https://example.com/image3.jpg" alt="Screenshot 3" width="400" height="auto">
 </div>
 
