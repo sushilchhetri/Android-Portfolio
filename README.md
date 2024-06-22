@@ -46,3 +46,24 @@ Galaxy Hotspot Chat is an Android application that allows users to engage in gro
   <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboarding3.png?raw=true" alt="Screenshot 5" width="400" height="auto">
 </div>
 
+
+# OnePik - One Piece Fan App
+
+**OnePik** is an Android application designed for "One Piece" enthusiasts, offering a seamless experience to download wallpapers and WhatsApp stickers inspired by the beloved anime series.
+
+## Features:
+- **Wallpaper Downloads**: Explore a vast collection of high-resolution wallpapers featuring characters, scenes, and art from "One Piece."
+- **WhatsApp Stickers**: Download and import custom WhatsApp stickers directly into your WhatsApp application for enhanced messaging experiences.
+- **User-Friendly Interface**: Intuitive design ensures easy navigation and quick access to wallpapers and stickers.
+
+## Technologies Used:
+- **MVVM Architecture**: Follows the Model-View-ViewModel architectural pattern for separation of concerns and efficient data flow management.
+- **Retrofit**: Uses Retrofit for handling network requests and fetching data from remote servers in a robust and efficient manner.
+- **ViewModel**: Employs Android ViewModel to manage UI-related data in a lifecycle-aware manner, preserving data across configuration changes.
+- **Kotlin**: Developed entirely in Kotlin, leveraging its concise syntax, null safety, and modern language features.
+
+## Screenshots:
+![Screenshot 1](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/OnePik/onepik.png?raw=true)
+![Screenshot 2](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/OnePik/Untitled-2.jpg?raw=true)
+
+
