@@ -38,12 +38,12 @@ Galaxy Hotspot Chat is an Android application that allows users to engage in gro
 - **Navigation Component**: Manages in-app navigation and user interaction effectively.
 
 <div align="center">
-  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Galaxy%20Hot%20spot%20chat/featureGraphic.jpg?raw=true" alt="Screenshot 2" width="400" height="auto">
-  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboarding1.png?raw=true" alt="Screenshot 3" width="400" height="auto">
-   <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboarding_join_room.png?raw=true" alt="Screenshot 6" width="400" height="auto"> 
-  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboarding2.png?raw=true" alt="Screenshot 4" width="400" height="auto">
-     <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboardingGroupList.png?raw=true" alt="Screenshot 3" width="400" height="auto"> 
-  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboarding3.png?raw=true" alt="Screenshot 5" width="400" height="auto">
+  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/Galaxy%20Hot%20spot%20chat/featureGraphic.jpg?raw=true" alt="Screenshot 2" width="400" height="auto">
+  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboarding1.png?raw=true" alt="Screenshot 3" width="400" height="auto">
+   <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboarding2.png?raw=true" alt="Screenshot 6" width="400" height="auto"> 
+  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboarding_join_room.png?raw=true" alt="Screenshot 4" width="400" height="auto">
+     <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboardingGroupList.png?raw=true" alt="Screenshot 3" width="400" height="auto"> 
+  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/Galaxy%20Hot%20spot%20chat/onboarding3.png?raw=true" alt="Screenshot 5" width="400" height="auto">
 </div>
 
 
@@ -65,8 +65,8 @@ Galaxy Hotspot Chat is an Android application that allows users to engage in gro
 - **Kotlin**: Developed entirely in Kotlin, leveraging its concise syntax, null safety, and modern language features.
 
 ## Screenshots:
-![Screenshot 1](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/OnePik/onepik.png?raw=true)
-![Screenshot 2](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/OnePik/Untitled-2.jpg?raw=true)
+![Screenshot 1](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/OnePik/onepik.png?raw=true)
+![Screenshot 2](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/OnePik/Untitled-2.jpg?raw=true)
 
 
 # Sound Express
@@ -87,8 +87,8 @@ Galaxy Hotspot Chat is an Android application that allows users to engage in gro
 - **Kotlin**: Entirely developed in Kotlin, leveraging its concise syntax, null safety, and modern language features.
 
 ## Screenshots:
-![Screenshot 1](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Sound%20Express/appicon.jpg?raw=true)
-![Screenshot 2](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Sound%20Express/Untitled-2.jpg?raw=true)
+![Screenshot 1](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/Sound%20Express/appicon.jpg?raw=true)
+![Screenshot 2](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/Sound%20Express/Untitled-2.jpg?raw=true)
 
 
 
@@ -110,8 +110,8 @@ Galaxy Hotspot Chat is an Android application that allows users to engage in gro
 
 
 ## Screenshots:
-![Screenshot 1](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/FAKE%20PERSONILITY/appicon.png?raw=true)
-![Screenshot 2](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/FAKE%20PERSONILITY/Untitled-2.jpg?raw=true)
+![Screenshot 1](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/FAKE%20PERSONILITY/appicon.png?raw=true)
+![Screenshot 2](https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/FAKE%20PERSONILITY/Untitled-2.jpg?raw=true)
 
 
 ## Thanks for stopping by!
