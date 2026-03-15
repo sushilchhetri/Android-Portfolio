@@ -16,6 +16,50 @@ I'm **Sushil Chhetri**, passionate about crafting high-quality mobile applicatio
 <a href="mailto:sushilchhetri060@gmail.com"><img src="https://img.shields.io/badge/Email-Sushil-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/sushil-chhetri-79b58b163" target="_blank"><img src="https://img.shields.io/badge/linkedin-Sushil-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;
 
 
+
+# NotiStoreX – Notification Manager
+
+NotiStoreX is a powerful, lightweight, and privacy-focused Android application that automatically saves and organizes all incoming notifications. The app helps users revisit missed alerts, analyze notification usage patterns, and maintain complete control over their digital activity — all while keeping data securely stored on the device.
+
+Designed with modern Android architecture and performance optimization in mind, NotiStoreX provides a smooth and structured experience for managing notification history.
+
+<a href=''><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+
+
+## Features:
+- **Automatic Notification Capture** – Saves every incoming notification instantly using Foreground Service & WorkManager.
+- **Structured Notification History** – View notifications in a clean timeline grouped by app and date.
+- **Smart Filters & Search** – Quickly find past notifications using advanced filtering and search tools.
+- **Daily & Weekly Analytics** – Track notification trends and understand digital usage patterns.
+- **Export to CSV (Excel Support)** – Backup or analyze notification history outside the app.
+- **Passcode Privacy Lock** – Secure notification data with local authentication.
+- **Dark & Light Theme Support** – Optimized UI experience for different environments.
+- **Local-Only Storage** – No cloud sync, no server communication, full user privacy.
+- **Lightweight & Performance Optimized** – Minimal battery and memory usage.
+
+## Technologies Used:
+- **MVVM Architecture** – Clean separation of concerns and scalable codebase
+- **SOLID Principles** – Maintainable, testable, and modular design
+- **Jetpack Compose** – Modern declarative UI development
+- **Compose Navigation** – Smooth in-app navigation handling
+- **Room Database** – Efficient local data persistence
+- **Dagger Hilt** – Dependency Injection for better architecture
+- **WorkManager** – Background task scheduling and reliability
+- **Foreground Service** – Real-time notification listening
+- **Kotlin Coroutines & Flow** – Asynchronous and reactive programming
+  
+
+<div align="center">
+  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner-main-dark.jpg?raw=true" alt="Screenshot 2" width="400" height="auto">
+  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner-notification-dark-3.jpg?raw=true" alt="Screenshot 3" width="400" height="auto">
+   <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner-main.jpg?raw=true" alt="Screenshot 6" width="400" height="auto"> 
+  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner-2--notificaiton-detail-2.jpg?raw=true" alt="Screenshot 4" width="400" height="auto">
+     <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner---4.jpg?raw=true" alt="Screenshot 3" width="400" height="auto"> 
+  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner-analatics.jpg?raw=true" alt="Screenshot 5" width="400" height="auto">
+    <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner-5.jpg?raw=true" alt="Screenshot 5" width="400" height="auto">
+</div>
+
+
 # Galaxy Hotspot Chat
 
 Galaxy Hotspot Chat is an Android application that allows users to engage in group communication using Wi-Fi and hotspot connections, making it possible to chat without relying on internet access. Whether you're initiating a group chat as a host or joining an existing session, this app provides a seamless and reliable communication platform.
