@@ -23,7 +23,7 @@ NotiStoreX is a powerful, lightweight, and privacy-focused Android application t
 
 Designed with modern Android architecture and performance optimization in mind, NotiStoreX provides a smooth and structured experience for managing notification history.
 
-<a href=''><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.notistorex.app&pcampaignid=web_share'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
 
 ## Features:
