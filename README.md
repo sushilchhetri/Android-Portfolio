@@ -53,9 +53,9 @@ Designed with modern Android architecture and performance optimization in mind, 
   <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner-main-dark.jpg?raw=true" alt="Screenshot 2" width="400" height="auto">
   <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner-notification-dark-3.jpg?raw=true" alt="Screenshot 3" width="400" height="auto">
    <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner-main.jpg?raw=true" alt="Screenshot 6" width="400" height="auto"> 
-  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner-2--notificaiton-detail-2.jpg?raw=true" alt="Screenshot 4" width="400" height="auto">
+  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner-2--notificaiton-detail-2.png?raw=true" alt="Screenshot 4" width="400" height="auto">
      <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner---4.jpg?raw=true" alt="Screenshot 3" width="400" height="auto"> 
-  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner-analatics.jpg?raw=true" alt="Screenshot 5" width="400" height="auto">
+  <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner-analatics.png?raw=true" alt="Screenshot 5" width="400" height="auto">
     <img src="https://github.com/sushilchhetri/Android-Portfolio/blob/master/Android-Portfolio/Android-Portfolio/NotiStoreX%20Notification%20vault/banner-5.jpg?raw=true" alt="Screenshot 5" width="400" height="auto">
 </div>
 
